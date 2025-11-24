@@ -1,0 +1,66 @@
+2025/11/24-15:52:51.550 45c Reusing MANIFEST D:\New folder\autooo\naukri-auto-applier\session_naukri\Default\IndexedDB\https_www.naukri.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/24-15:52:51.550 45c Recovering log #15
+2025/11/24-15:52:51.552 45c Reusing old log D:\New folder\autooo\naukri-auto-applier\session_naukri\Default\IndexedDB\https_www.naukri.com_0.indexeddb.leveldb/000015.log 
+2025/11/24-15:54:45.262 6dc8 Level-0 table #21: started
+2025/11/24-15:54:45.280 6dc8 Level-0 table #21: 1629579 bytes OK
+2025/11/24-15:54:45.284 6dc8 Delete type=0 #15
+2025/11/24-15:55:28.223 6dc8 Compacting 1@1 + 1@2 files
+2025/11/24-15:55:28.235 6dc8 Generated table #22@1: 203 keys, 98759 bytes
+2025/11/24-15:55:28.235 6dc8 Compacted 1@1 + 1@2 files => 98759 bytes
+2025/11/24-15:55:28.237 6dc8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/24-15:55:28.237 6dc8 Delete type=2 #18
+2025/11/24-15:55:28.238 6dc8 Delete type=2 #21
+2025/11/24-15:56:53.926 5af0 Level-0 table #24: started
+2025/11/24-15:56:53.951 5af0 Level-0 table #24: 1529079 bytes OK
+2025/11/24-15:56:53.964 5af0 Delete type=0 #20
+2025/11/24-15:57:46.772 45c Compacting 1@1 + 1@2 files
+2025/11/24-15:57:46.781 45c Generated table #25@1: 208 keys, 88491 bytes
+2025/11/24-15:57:46.781 45c Compacted 1@1 + 1@2 files => 88491 bytes
+2025/11/24-15:57:46.782 45c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/24-15:57:46.784 45c Delete type=2 #22
+2025/11/24-15:57:46.784 45c Delete type=2 #24
+2025/11/24-15:58:59.150 6dc8 Level-0 table #27: started
+2025/11/24-15:58:59.179 6dc8 Level-0 table #27: 1540038 bytes OK
+2025/11/24-15:58:59.183 6dc8 Delete type=0 #23
+2025/11/24-15:59:21.749 6dc8 Compacting 1@1 + 1@2 files
+2025/11/24-15:59:21.764 6dc8 Generated table #28@1: 203 keys, 98770 bytes
+2025/11/24-15:59:21.765 6dc8 Compacted 1@1 + 1@2 files => 98770 bytes
+2025/11/24-15:59:21.767 6dc8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/24-15:59:21.768 6dc8 Delete type=2 #25
+2025/11/24-15:59:21.768 6dc8 Delete type=2 #27
+2025/11/24-16:00:58.316 6dc8 Level-0 table #30: started
+2025/11/24-16:00:58.348 6dc8 Level-0 table #30: 1528021 bytes OK
+2025/11/24-16:00:58.353 6dc8 Delete type=0 #26
+2025/11/24-16:01:43.822 45c Compacting 1@1 + 1@2 files
+2025/11/24-16:01:43.836 45c Generated table #31@1: 204 keys, 88385 bytes
+2025/11/24-16:01:43.837 45c Compacted 1@1 + 1@2 files => 88385 bytes
+2025/11/24-16:01:43.840 45c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/24-16:01:43.841 45c Delete type=2 #28
+2025/11/24-16:01:43.841 45c Delete type=2 #30
+2025/11/24-16:03:02.483 6dc8 Level-0 table #33: started
+2025/11/24-16:03:02.502 6dc8 Level-0 table #33: 1548179 bytes OK
+2025/11/24-16:03:02.506 6dc8 Delete type=0 #29
+2025/11/24-16:03:41.397 45c Compacting 1@1 + 1@2 files
+2025/11/24-16:03:41.415 45c Generated table #34@1: 203 keys, 98770 bytes
+2025/11/24-16:03:41.415 45c Compacted 1@1 + 1@2 files => 98770 bytes
+2025/11/24-16:03:41.418 45c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/24-16:05:02.170 6dc8 Level-0 table #36: started
+2025/11/24-16:05:02.191 6dc8 Level-0 table #36: 1527693 bytes OK
+2025/11/24-16:05:02.196 6dc8 Delete type=2 #31
+2025/11/24-16:05:02.196 6dc8 Delete type=0 #32
+2025/11/24-16:05:02.196 6dc8 Delete type=2 #33
+2025/11/24-16:05:39.426 45c Compacting 1@1 + 1@2 files
+2025/11/24-16:05:39.435 45c Generated table #37@1: 200 keys, 88142 bytes
+2025/11/24-16:05:39.435 45c Compacted 1@1 + 1@2 files => 88142 bytes
+2025/11/24-16:05:39.437 45c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/24-16:05:39.438 45c Delete type=2 #34
+2025/11/24-16:05:39.438 45c Delete type=2 #36
+2025/11/24-16:06:58.732 6f00 Level-0 table #39: started
+2025/11/24-16:06:58.758 6f00 Level-0 table #39: 1548260 bytes OK
+2025/11/24-16:06:58.762 6f00 Delete type=0 #35
+2025/11/24-16:07:28.632 45c Compacting 1@1 + 1@2 files
+2025/11/24-16:07:28.642 45c Generated table #40@1: 203 keys, 98771 bytes
+2025/11/24-16:07:28.642 45c Compacted 1@1 + 1@2 files => 98771 bytes
+2025/11/24-16:07:28.644 45c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/24-16:07:28.644 45c Delete type=2 #37
+2025/11/24-16:07:28.644 45c Delete type=2 #39

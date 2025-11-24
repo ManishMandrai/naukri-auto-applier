@@ -1,0 +1,27 @@
+# Ignore all files ending with .log
+*.log
+
+# Ignore all files in the build/ directory
+build/
+
+# Ignore a specific file
+config.local.ini
+
+# Ignore a specific directory and its contents (e.g., node_modules in a Node.js project)
+node_modules/
+
+# Ignore files related to operating systems or IDEs
+.DS_Store
+Thumbs.db
+.idea/
+*.suo
+*.user
+*.swp
+
+# Exclude an ignored folder's specific subfolder (e.g. ignore all of 'temp', but not 'temp/keep')
+temp/*
+!temp/keep/
+!temp/keep/**
+
+
+.env
