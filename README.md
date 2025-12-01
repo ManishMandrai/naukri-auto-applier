@@ -31,7 +31,7 @@ Built to save time and boost job reach by removing manual repetitive tasks.
 * Dotenv
 
 ---
-
+```
 ## 📁 Project Structure
 
 naukri-auto-applier/
@@ -48,9 +48,9 @@ naukri-auto-applier/
 ├── .env
 ├── package.json
 └── index.js – Main entry file
-
+```
 ---
-
+```
 ## ⚙️ Setup Instructions
 
 ### 1. Install dependencies
@@ -73,7 +73,7 @@ jobFreshness: 7
 ### 4. Run the bot
 
 npm start
-
+```
 ---
 
 ## 🔒 Notes
@@ -83,10 +83,10 @@ npm start
 * Created for personal + educational use
 
 ---
-
+```
 ## 👤 Developer
 
 **Dev Manish**
 Portfolio: [https://devmanish.com](https://devmanish.com)
-
+```
 ---
