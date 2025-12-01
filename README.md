@@ -64,11 +64,11 @@ NAUKRI_PASSWORD="your-password"
 
 ### 3. Update `config.js`
 
-keywords: ["Frontend Developer", "React Developer"]
-locations: ["Delhi", "Bhopal", "Remote"]
-minSalary: 3
-maxExperience: 2
-jobFreshness: 7
+keywords: 
+locations:
+minSalary:
+maxExperience:
+jobFreshness: 
 
 ### 4. Run the bot
 
